@@ -1,0 +1,26 @@
+About the course:
+  The main target of the course is to learn how to manage all the steps of the interview process.
+We will talk about:
+  How to build a good CV.
+  How to build a professional LinkedIn profile.
+    Why it matters.
+    How can you use it correctly and get the most benefit from it?
+  How to apply for a job.
+  The first interview, it's called HR Interview.
+    It's actually not an HR interview, the HR -human resources- isn't involved at all in this step.
+  An optional phase called technical assessment.
+  Technical screening, it's usually done through a phone call:
+    It can vary from one company to another and one position to another, like:
+      You may have one problem solving question, or two.
+      You may have one interview or two in this step.
+      You may have question related to the system design or management.
+  Full loop interview -Last Stage-:
+    It contains multiple phases:
+      Technical screening:
+        Similar to the technical phone screening but: 
+          It has more details and maybe it will be harder.
+      System design:
+        According to your experience.
+      Behavioral interview:
+        It's maybe a separate interview or it's a part of each interview.
+  Offer negotiation, how to make sure that the salary and the culture is right for you.
