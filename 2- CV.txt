@@ -1,0 +1,78 @@
+CV Length Myth:
+  There's a widespread belief that a CV should be one page, but this is not always correct.
+  The ideal CV length depends on factors like job type and experience level.  
+  A one-page CV is only suitable if: 
+    You Have very little experience.
+    You are a high-profile industry leader (e.g., Elon Musk, Steve Jobs).  
+The Purpose of a CV:
+  A CV is your first impression; recruiters judge you based on it before any interview.  
+  It should: 
+    Capture attention and provide clear, relevant information about your skills and experience. 
+Why Short CVs Can Hurt You: 
+  One page CV can lead to ignore writing important informatrion like: 
+    Definition of a company you worked in... 
+    Important achievements... 
+    Summary section... 
+  The recruiter won't spend time researching about the companies or universities on your CV.
+    So you should mention these kind of info.
+  A vague, one-page CV with little detail can result in immediate rejection.  
+AI and Automated CV Screening:
+  Many companies now use AI and machine learning to filter CVs before recruiters even see them. 
+  If your CV lacks relevant keywords (e.g., “Node.js” for a backend role).
+    It might get a low score and be automatically rejected.  
+How to Optimize Your CV for AI Screening:
+  Include all relevant skills and technologies mentioned in the job description.  
+  Ensure your experience section is detailed.
+    Including specific technologies, frameworks, and project details.  
+  Use clear job titles and responsibilities that match industry standards.  
+Structuring Your CV Properly:
+  Every section should provide valuable information.  
+  Clearly state education, work experience, and skills with measurable achievements.  
+  If you have mentored or trained others, mention it.
+    As teamwork and knowledge-sharing are highly valued.  
+  Include links to projects, GitHub repositories, or technical blogs if applicable.  
+Key Takeaways:
+  Tailor your CV for both human recruiters and AI-based screening systems.  
+  Highlight relevant experience, technologies, and achievements clearly.  
+  Use keywords from the job description to improve your chances of passing automated filters.  
+  Things to add if you have:
+    Tech talks, Participation in student organizations, educational content.
+More details:
+  Basic Information in the CV:
+    Essential details: 
+      Name.
+      Contact information (email, phone with country code).
+      A brief professional title (e.g., "Software Engineer" or "Manager").
+    Avoid Including: 
+      Gender, marital status, religion, or nationality.
+        As some companies may reject a CV for containing such details. 
+          Due to anti-discrimination policies.
+  Summary Section:
+    Includes a brief, unchanging description of the person’s skills and expertise.  
+    The first part should align with the job application 
+      (e.g., emphasizing relevant experiences for the role).  
+    Optional but useful: 
+      A humanizing touch, such as a photo or hobbies, it can create a connection with recruiters.
+  Experience vs. Education Placement:
+    If they are a recent graduate or have little experience, education should come first.
+  Experience Section:
+    Structure: 
+      Job title, company name, location, and description of responsibilities.  
+    If the company isn’t well-known, provide a brief description.  
+    Avoid vague descriptions (e.g., “I worked with C++”). 
+      Instead, focus on specific contributions, like: 
+        Led a team to optimize a digital solution that improved processing speed by 300%.
+    Use past tense verbs to describe completed work.
+  Education Section:
+    If still a student or a recent graduate: 
+      Include activities or projects to showcase relevant skills.
+  Additional Sections:
+    Volunteer work & mentoring: Demonstrates leadership and communication skills.  
+    Books authored: Shows creativity and broad interests beyond tech.  
+    Technical skills: If applying as an engineer, list key technologies and tools.  
+    Languages spoken.  
+    Recommendations: 
+      Include LinkedIn recommendations from various levels (managers, peers, subordinates).
+        Providing credibility.
+  Final Thoughts:
+    The CV should match the job requirements and pass automated screening systems.  
