@@ -1,0 +1,30 @@
+First Step Based on Experience:
+  If a candidate has no experience or is applying for an internship: 
+    They usually take an automated technical screen.
+  If a candidate has experience, they go directly to a phone screen interview.
+Automated Technical Screening:
+  The candidate receives a link to an online test typically 60–90 minutes. 
+    It has simple programming questions.
+  The test is used to filter out candidates with no programming knowledge.
+    Recruiter responses are usually quick after the test (1–2 days).
+    The process aims to save engineers time.
+    Candidates should practice solving problems efficiently. 
+      While avoiding over complicating solutions.
+  Questions are usually basic, covering data structures like stacks and queues.
+    The goal of such problems is not to trick candidates. 
+      It's to test basic coding logic and problem-solving ability.
+  The test may allow Google searches.
+    But only candidates with some programming knowledge will know what to search for.
+  Scoring is usually automated, and passing is often set at 70% or higher.
+LeetCode and Problem Solving:
+  The video recommends LeetCode for practice.
+  Premium subscriptions provide company-specific questions (e.g., Amazon, Facebook).
+  Even the free version has categorized questions by difficulty level (easy, medium, hard).
+  Candidates can focus on weaker areas like dynamic programming or hash tables.
+Phone Screen Interview:
+  If the automated test is passed, the next step is a phone interview with a team member.
+  Depending on experience, this may include:
+    Technical coding problems (LeetCode-style questions).
+    System design questions.
+    Management-related questions (for leadership roles).
+    Questions tend to be harder than automated screening but easier than final loop interviews.
