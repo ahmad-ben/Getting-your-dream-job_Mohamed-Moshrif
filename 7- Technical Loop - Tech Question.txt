@@ -1,0 +1,33 @@
+The full loop consists of multiple interviews:
+  Typically four to six. 
+  Covering various aspects such as: 
+    Technical problem-solving, system design, behavioral questions, and managerial discussions. 
+  The format and content depend on the company and the role's experience level.
+Key advice includes:
+  Engage the Interviewer: 
+    Read the question aloud, especially in remote interviews.
+      To keep the interviewer engaged and prevent them from mentally checking out.
+  Ask Questions: 
+    There's no penalty for asking;
+      In fact, not asking raises red flags. 
+    Senior candidates are expected to ask more questions than junior ones.
+  Clarify Requirements: 
+    Don't assume input constraints—ask if edge cases need handling.
+  Provide Examples: 
+    When discussing solutions, create your own examples instead of relying solely on given ones.
+  Focus on the Interview’s Goal: 
+    Not all interviewers are looking for the most optimized solution; 
+      some focus on problem-solving approaches, system design skills, or communication.
+  Start with a Simple, Clear Solution: 
+    Avoid overcomplicating answers at first. 
+      Begin with a straightforward approach and refine if needed.
+  Break Down Problems: 
+    Solve issues step by step rather than tackling everything at once.
+  Think from the User’s Perspective: 
+    Consider whether the solution is for developers or end users.
+      Which affects design decisions.
+  Test with Normal Cases First: 
+    Don't start with extreme edge cases; focus on standard use cases first.
+  Mentally Reframe the Interview: 
+    Treat it as a conversation with a potential colleague. 
+      Rather than a high-stress evaluation to reduce anxiety.
