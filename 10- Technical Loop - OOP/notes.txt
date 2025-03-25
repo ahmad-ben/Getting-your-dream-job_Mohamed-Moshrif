@@ -1,0 +1,30 @@
+Object-Oriented Programming 4 Pillars:
+  Abstraction:
+    Hiding unnecessary details from users.
+    This is the process of hiding implementation details. 
+      Showing only the essential features of an object. 
+    For example:
+      Vehicle class with an abstract stop method.
+  Encapsulation:
+    It involves wrapping data -fields- and methods in a single unit -class-. 
+      Restricting direct access using access modifiers. 
+    For example, private fields with public getters and setters.
+  Inheritance:
+    Creating a new class -child-.
+      That inherits attributes and methods from an existing class -parent-. 
+        Thereby promoting code reuse. 
+    For example, a Car class inherits from a Vehicle class.
+  Polymorphism:
+    Enabling different implementations for a common interface.
+    It allows methods to perform differently based on the object they are invoked on. 
+    When two types share an inheritance chain, they can be used interchangeably with no errors.
+Real-Life Example -driving different cars-:
+  The interface -steering wheel, pedals- remains the same.
+  The internal mechanisms -engine, wheels- differ but are abstracted from the driver.
+Application to Pizza Shop Example:
+  A parent Pizza class is created.
+  Subclasses -ChickenPizza, BeefPizza, CheesePizza- inherit from Pizza.
+  Common behaviors are placed in the parent class.
+  Different behaviors -e.g., toppings- are overridden in subclasses.
+Conclusion:
+  OOP principles make code reusable, maintainable, and scalable.
