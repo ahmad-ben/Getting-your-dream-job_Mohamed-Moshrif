@@ -1,0 +1,61 @@
+Comparison to Previous Topics:
+  Similar to the behavioral questions in the IC (Individual Contributor) interviews. 
+    Also a situational and behavioral questions with the focuses more on managerial aspects.
+Question Types:
+  Questions blend people management and technical aspects.
+    Relevant even for senior engineers. 
+    Focusing on interpersonal skills rather than purely technical details.
+Key Topics Covered:
+  Defining a good manager.
+  Managing upwards (e.g., stakeholders, superiors).
+  Managing downwards (e.g., juniors, mid-level staff).
+  Handling overperformance, underperformance, and team health.
+  Hiring the best talent and resolving conflicts.
+Defining a Good Manager:
+  A good manager’s work is unnoticed when done well but obvious when done poorly.
+    They build efficient processes and ecosystems requiring minimal intervention.
+Avoiding Micromanagement:
+  Over-involvement creates bottlenecks.
+    Managers should hire people better than themselves in specific domains.
+Managing Upwards:
+  Requires speaking different "languages" tailored to stakeholders, like:
+    Sales, engineering, C-level. 
+  Translating technical benefits into business value (e.g., ROI, cost savings).
+Managing Downwards:
+  Avoid top-down decisions (limit to 5% for strategic shifts).
+    Even if you took the decision top-down you should explain why.
+    Involve the team in problem-solving to foster ownership and retention.
+Handling Conflict:
+  Define desired outcomes first.
+  Discuss solutions collaboratively.
+  Remain open to critique.
+  Avoiding subjective bias. 
+  Try to find a win-win solution is possible.
+Performance Management:
+  Reward high impact with bonuses, not promotions.
+    Unless he worked effectively in the next level and scope from 3 months to 1 year.
+  For underperformance: 
+    Investigate causes (e.g., team fit, personal issues).
+    Provide support (e.g., training, reassignment).
+    Use a Performance Improvement Plan (PIP) as a last resort.
+Team Health:
+  Use anonymous surveys to assess psychological safety, work-life balance, and satisfaction.
+    Address top issues monthly.
+Hiring Talent:
+  Hire people better than you in their field.
+  Align their long-term goals with the company.
+  Prioritize cultural fit over purely technical skills.
+Team Capacity:
+  Use tools like Gantt charts to calculate needs.
+    Accounting for overhead (20-25%) and learning (10-20%).
+  Hire slightly below capacity for flexibility.
+Cross-Group Impact:
+  Great managers solve company-wide problems, not just team issues, enhancing their strategic value.
+4 Stages of team development:
+  Forming: New team, no cohesion.
+    One on one meetings and team roadmap and goals can help moving from Forming to storming.
+  Storming: Conflicts arise as roles clarify.
+    Team health can help to move from storming to norming.
+  Norming: Team aligns and collaborates.
+  Performing: High productivity and trust.
+    Each stage requires tailored interventions, like conflict resolution in storming.
